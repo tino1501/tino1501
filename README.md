@@ -8,7 +8,7 @@
 
 # Github Repos:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ngantrandev&repo=ngantrandev&show_owner=true&description_lines_count=5)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ngantrandev&repo=ngantrandev&show_owner=true&description_lines_count=5&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 # 📊 GitHub Stats:
 
